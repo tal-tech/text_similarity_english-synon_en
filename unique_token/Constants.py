@@ -1,0 +1,9 @@
+PAD = 0
+UNK = 1
+CLS = 2
+SEP = 3
+
+PAD_WORD = 'PAD'
+UNK_WORD = 'UNK'
+CLS_WORD = 'CLS'
+SEP_WORD = 'SEP'

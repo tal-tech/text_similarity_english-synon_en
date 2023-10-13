@@ -1,0 +1,8 @@
+# python 3.6.0
+jieba==0.39
+Flask_RESTful==0.3.7
+nltk==3.4
+Flask==1.0.2
+torch==1.0.1.post2
+py_eureka_client==0.5.5
+numpy==1.16.2

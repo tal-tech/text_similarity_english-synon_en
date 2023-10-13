@@ -1,0 +1,1 @@
+text_similarity_english-synon_en/bin/model_epoch_63.pth http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Ftext_similarity_english-synon_en%2Fbin%2Fmodel_epoch_63.pth?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1698390514&Signature=eBLu2CGGMJsOwxDIy8G0AKW5XuY%3D
